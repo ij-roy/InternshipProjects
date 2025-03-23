@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "807922696335",
+    "firebase_url": "https://internship-projects-1b23f-default-rtdb.firebaseio.com",
+    "project_id": "internship-projects-1b23f",
+    "storage_bucket": "internship-projects-1b23f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807922696335:android:1c6ba00da264aaaf6ab0fa",
+        "android_client_info": {
+          "package_name": "com.buzzora"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXjvgcaQtv08WF51YYb8cAz39wj_vUmc8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807922696335:android:edfb356d6257a9d46ab0fa",
+        "android_client_info": {
+          "package_name": "com.metahub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXjvgcaQtv08WF51YYb8cAz39wj_vUmc8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807922696335:android:c35953f0248327de6ab0fa",
+        "android_client_info": {
+          "package_name": "com.nutriprofile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXjvgcaQtv08WF51YYb8cAz39wj_vUmc8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -31,5 +31,11 @@ apply plugin: 'com.android.application'
 apply plugin: 'com.google.gms.google-services' // <- Add this line
 
 
-// firebase database
+// firebase authentication
 npm install @react-native-firebase/database --legacy-peer-deps
+npm install @react-native-firebase/app @react-native-firebase/auth
+npm install @react-native-google-signin/google-signin @react-native-firebase/auth
+
+npm install @react-navigation/native
+npm install react-native-screens react-native-safe-area-context react-native-gesture-handler react-native-reanimated react-native-vector-icons @react-native-masked-view/masked-view
+npm install @react-navigation/stack
