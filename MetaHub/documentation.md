@@ -31,3 +31,5 @@ apply plugin: 'com.android.application'
 apply plugin: 'com.google.gms.google-services' // <- Add this line
 
 
+// firebase database
+npm install @react-native-firebase/database --legacy-peer-deps
